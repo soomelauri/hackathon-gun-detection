@@ -1,0 +1,26 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>Cam5-From09-30-04To09-30-42-Guns_x264_frame_132</filename>
+                                    <path>C:\Users\Rodrigo\Desktop\Reetiquetado con VoTT v1\Videos Rodri\Cam5-From09-30-04To09-30-42-Guns_x264\JPEGImages\Cam5-From09-30-04To09-30-42-Guns_x264_frame_132.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>Short_rifle</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>306.77685950413223</xmin>
+                                                <ymin>382.03182374541</ymin>
+                                                <xmax>409.91735537190084</xmax>
+                                                <ymax>467.9559363525092</ymax>
+                                            </bndbox>
+                                    </object>
+                                    </annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>Cam5-From09-47-49To09-48-30_x264_frame_97</filename>
+                                    <path>C:\Users\Rodrigo\Desktop\Reetiquetado con VoTT v1\Videos Antonio\Cam5-From09-47-49To09-48-30_x264\JPEGImages\Cam5-From09-47-49To09-48-30_x264_frame_97.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>Short_rifle</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>503.801652892562</xmin>
+                                                <ymin>342.37454100367194</ymin>
+                                                <xmax>556.6942148760331</xmax>
+                                                <ymax>470.5997552019584</ymax>
+                                            </bndbox>
+                                    </object>
+                                    </annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>Cam5-From09-46-24To09-47-02_x264_frame_18</filename>
+                                    <path>C:\Users\marina\Documents\DeepLearning\Images\Etiquetados editados\Cam5-From09-46-24To09-47-02_x264_output\JPEGImages\Cam5-From09-46-24To09-47-02_x264_frame_18.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>Handgun</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>286.9421487603306</xmin>
+                                                <ymin>479.8531211750306</ymin>
+                                                <xmax>323.9669421487603</xmax>
+                                                <ymax>539.3390452876376</ymax>
+                                            </bndbox>
+                                    </object>
+                                    </annotation>

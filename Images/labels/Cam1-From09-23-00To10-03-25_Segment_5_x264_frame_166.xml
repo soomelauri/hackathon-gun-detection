@@ -1,0 +1,26 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>Cam1-From09-23-00To10-03-25_Segment_5_x264_frame_166</filename>
+                                    <path>C:\Users\marina\Documents\DeepLearning\Images\Etiquetados editados\Cam1-From09-23-00To10-03-25_Segment_5_x264_output\JPEGImages\Cam1-From09-23-00To10-03-25_Segment_5_x264_frame_166.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>Short_rifle</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>1024.793388429752</xmin>
+                                                <ymin>411.11383108935127</ymin>
+                                                <xmax>1065.7851239669421</xmax>
+                                                <ymax>589.5716034271726</ymax>
+                                            </bndbox>
+                                    </object>
+                                    </annotation>

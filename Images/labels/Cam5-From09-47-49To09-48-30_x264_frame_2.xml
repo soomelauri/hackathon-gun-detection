@@ -1,0 +1,26 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>Cam5-From09-47-49To09-48-30_x264_frame_2</filename>
+                                    <path>C:\Users\Rodrigo\Desktop\Reetiquetado con VoTT v1\Videos Antonio\Cam5-From09-47-49To09-48-30_x264\JPEGImages\Cam5-From09-47-49To09-48-30_x264_frame_2.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>Handgun</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>89.91735537190083</xmin>
+                                                <ymin>551.2362301101591</ymin>
+                                                <xmax>146.77685950413223</xmax>
+                                                <ymax>598.8249694002448</ymax>
+                                            </bndbox>
+                                    </object>
+                                    </annotation>
