@@ -1,0 +1,7 @@
+names:
+  0: Handgun
+  1: Short_rifle
+  2: Knife
+  3: Person
+path: c:\Users\maria\Documents\GitHub\hackathon-gun-detection\yolo_predictions
+val: .\images\val\
