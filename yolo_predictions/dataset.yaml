@@ -1,7 +1,10 @@
 names:
-  0: Handgun
-  1: Short_rifle
-  2: Knife
-  3: Person
+  0: person
+  1: tie
+  2: refrigerator
+  3: skateboard
+  4: chair
+  5: tv
+  6: suitcase
 path: c:\Users\maria\Documents\GitHub\hackathon-gun-detection\yolo_predictions
 val: .\images\val\
